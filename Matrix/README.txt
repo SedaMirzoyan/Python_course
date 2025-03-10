@@ -33,3 +33,12 @@ Output : [[(‘Gfg’, 3, 1)], [(‘best’, 1, 2)]]
 
 Input : test_list = [[(‘Gfg’, 6), (‘Gfg’, 3)]] cus_eles = [7] 
 Output : [[(‘Gfg’, 6, 7), (‘Gfg’, 3, 7)]]
+
+
+6. Given a binary matrix of dimensions M * N. One can perform the given operation in the matrix.
+
+If the value of matrix[i][j] is 0, then traverse in the same direction and check the next value.
+If the value of matrix[i][j] is 1, then update matrix[i][j] to 0 and change the current direction from up, right, down, or left to the directions right, down, left, and up respectively.
+Initially you start from cell(0, 0), moving in right direction.
+
+The task is to find the first cell of the matrix  which leads to outside the matrix from the traversal of the given matrix from the cell (0, 0) by performing the operations.
