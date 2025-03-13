@@ -7,3 +7,5 @@
 4. Search an Element in a Circular Linked List
 
 5. Remove loop, make circular linked list singly linked list
+
+6. Find middle of a linked list using one traversal
