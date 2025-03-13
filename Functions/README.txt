@@ -4,7 +4,7 @@
 
 3. Find the power of a number using recursion
 
-4. Sorting Objects of User Defined Class
+4. Sorting Class Object
 
 5. Functions that Accept Variable Length Key Value Pair as Arguments
 
